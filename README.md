@@ -1,5 +1,5 @@
 # COLLABORATIVE-FILTERING-UTILIZING-NEURAL-NETWORKS
-In this work, we will get into RS’s operation, hardships, and how Machine Learning(ML),
+In this work, I will get into RS’s operation, hardships, and how Machine Learning(ML),
 and specifically Neural Networks(ΝΝ), can be applied in such systems. To specify, this the-
 sis attempts to integrate two different networks based on the Neural Collaborative Filtering
 (NCF) framework. On one hand, a Matrix Factorization (MF) network is used and on the other
